@@ -1,8 +1,8 @@
-# sublime-text-package-control-in-list
+# sublime-text-package-control-in-list [st](https://avatars1.githubusercontent.com/u/684879?s=200&v=4 "Logost")
 
 Quick SublimeText "list of packages" 🎉
 
-## Search packages ![st](https://avatars1.githubusercontent.com/u/684879?s=200&v=4 "Logost")
+## Search packages with Sublime text !
 
 * 2018
   * [Installation](#installation)
@@ -10,8 +10,6 @@ Quick SublimeText "list of packages" 🎉
   * [Linters-and-syntax-highlighting](#linters-and-syntax-highlighting)
   * [Themes-and-fun](#themes-and-fun)
  * [Contributing](#Contributions)
-
-
 
 ### Installation
 
