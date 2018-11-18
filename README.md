@@ -26,6 +26,12 @@ ColorPicker; enables a color picker dialog and allows users to insert or change 
 
 ***
 
+JsPrettier; Sublime Text Plug-in for Prettier, the opinionated code formatter.
+> To run the JsPrettier command `opt+cmd+f` on a Mac.
+
+***
+
+
 #####  [✨ Back Top to Search packages ✨](https://github.com/airqz/st-package-control-in-list#sublime-text-package-control-in-list)
 
 ## Contributing :shipit:
