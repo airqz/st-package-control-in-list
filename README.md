@@ -3,11 +3,7 @@
 ## Quick SublimeText Packages 🎉
 
 * Search packages for Sublime text !
-  * [Installation](#installation)
-  * [All](#all)
-  * [Linters-and-syntax-highlighting](#linters-and-syntax-highlighting)
-  * [Themes-and-fun](#themes-and-fun)
- * [Contributing](#Contributions)
+ * [Contributing](#Contributing)
 
 ## Installation
 
@@ -26,16 +22,16 @@ Alignment; plugin helps to easily align multiple selections, or multi-line selec
 ***
 
 ColorPicker; enables a color picker dialog and allows users to insert or change a selected color.
-> To open the color picker, simply type cmd+shift+c on a Mac, or ctrl+shift+c on Windows or Linux.
+> To open the color picker, simply type `cmd+shift+c` on a Mac, or `ctrl+shift+c` on Windows or Linux.
 
 ***
 
-
-
-## Contributions
-
 #####  [✨ Back Top to Search packages ✨](https://github.com/airqz/st-package-control-in-list#sublime-text-package-control-in-list)
 
-For more package :shipit: 
+## Contributing :shipit:
+
+
+
+For more package  
 
 
