@@ -16,17 +16,17 @@
 
 ## All
 
-Alignment; plugin helps to easily align multiple selections, or multi-line selections.
+**Alignment**; plugin helps to easily align multiple selections, or multi-line selections.
 > Simply type `ctrl+alt+a` on Windows, or `cmd+ctrl+a`  on a Mac, to align your selection. To align with :follow this [tutorial](https://www.granneman.com/webdev/editors/sublime-text/packages/how-to-install-and-use-sublime-alignment) to setup custom delimiters.
 
 ***
 
-ColorPicker; enables a color picker dialog and allows users to insert or change a selected color.
+**ColorPicker**; enables a color picker dialog and allows users to insert or change a selected color.
 > To open the color picker, simply type `cmd+shift+c` on a Mac, or `ctrl+shift+c` on Windows or Linux.
 
 ***
 
-JsPrettier; Sublime Text Plug-in for Prettier, the opinionated code formatter.
+**JsPrettier**; Sublime Text Plug-in for Prettier, the opinionated code formatter.
 > To run the JsPrettier command `opt+cmd+f` on a Mac.
 
 ***
