@@ -21,17 +21,26 @@
 
 ***
 
-**ColorPicker**; enables a color picker dialog and allows users to insert or change a selected color.
+**Babel**; Syntax definitions for ES6 JavaScript with React JSX extensions. [[Doc]](https://github.com/babel/babel-sublime-snippets)
+
+***
+
+**ColorPicker**; enables a color picker dialog and allows users to insert or change a selected color. [[Doc OSX]](https://github.com/jnordberg/sublime-colorpick/) [[Doc Windows]](https://github.com/animehunter/SublimeColorPickerWindowsOnly)
 > To open the color picker, simply type `cmd+shift+c` on a Mac, or `ctrl+shift+c` on Windows or Linux.
 
 ***
 
-**JsPrettier**; Sublime Text Plug-in for Prettier, the opinionated code formatter.
+**htmlprettify**; HTML, CSS, JavaScript, JSON, React/JSX and Vue code formatter for Sublime Text 2 and 3 via node.js [[Doc]](https://github.com/victorporof/Sublime-HTMLPrettify)
+> To open the color picker, simply type `cmd+shift+c` on a Mac, or `ctrl+shift+c` on Windows or Linux.
+
+***
+
+**JsPrettier**; Sublime Text Plug-in for Prettier, the opinionated code formatter. [[Doc]](https://github.com/jonlabelle/SublimeJsPrettier)
 > To run the JsPrettier command `opt+cmd+f` on a Mac.
 
 ***
 
-**Trailing Spaces**; highlight trailing spaces and delete them in a flash!
+**Trailing Spaces**; highlight trailing spaces and delete them in a flash! [[Doc]](https://github.com/SublimeText/TrailingSpaces)
 > To add a key binding, open "Preferences / Key Bindings - User" and add:
 `{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" }`
 
