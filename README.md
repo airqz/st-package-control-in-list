@@ -30,7 +30,7 @@
 
 ***
 
-**ESLint**; A fully pluggable tool for identifying and reporting on patterns in JavaScript | Lint ECMAScript/JavaScript syntax by [ESLint](https://eslint.org) [Doc](https://github.com/eslint/eslint)
+**ESLint**; A fully pluggable tool for identifying and reporting on patterns in JavaScript | Lint ECMAScript/JavaScript syntax by [ESLint](https://eslint.org) | [[Doc]](https://github.com/eslint/eslint)
 > On the right click menu in ESLint
 
 ***
