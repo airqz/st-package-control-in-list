@@ -30,6 +30,12 @@
 
 ***
 
+**ESLint**; A fully pluggable tool for identifying and reporting on patterns in JavaScript | Lint ECMAScript/JavaScript syntax by [ESLint](https://eslint.org) [Doc](https://github.com/eslint/eslint)
+> On the right click menu in ESLint
+
+***
+
+
 **htmlprettify**; HTML, CSS, JavaScript, JSON, React/JSX and Vue code formatter for Sublime Text 2 and 3 via node.js [[Doc]](https://github.com/victorporof/Sublime-HTMLPrettify)
 > To open the color picker, simply type `cmd+shift+c` on a Mac, or `ctrl+shift+c` on Windows or Linux.
 
