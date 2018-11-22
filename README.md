@@ -26,17 +26,16 @@
 
 ***
 
-**Trailing Spaces**; highlight trailing spaces and delete them in a flash!
-> To add a key binding, open "Preferences / Key Bindings - User" and add:
-`{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" }`
-
-***
-
 **JsPrettier**; Sublime Text Plug-in for Prettier, the opinionated code formatter.
 > To run the JsPrettier command `opt+cmd+f` on a Mac.
 
 ***
 
+**Trailing Spaces**; highlight trailing spaces and delete them in a flash!
+> To add a key binding, open "Preferences / Key Bindings - User" and add:
+`{ "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" }`
+
+***
 
 #####  [✨ Back Top to Search packages ✨](https://github.com/airqz/st-package-control-in-list#sublime-text-package-control-in-list)
 
