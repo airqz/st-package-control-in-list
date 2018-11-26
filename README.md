@@ -54,9 +54,17 @@
 
 #####  [✨ Back Top to Search packages ✨](https://github.com/airqz/st-package-control-in-list#sublime-text-package-control-in-list)
 
+## Uninstall with the Command Palette
+
+Preferences: Browse Packages
+
+or
+
+Package Control: Remove Package 
+
+***
+
 ## Contributing :shipit:
-
-
 
 For more package  
 
