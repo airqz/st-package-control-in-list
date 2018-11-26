@@ -56,11 +56,7 @@
 
 ## Uninstall with the Command Palette
 
-Preferences: Browse Packages
-
-or
-
-Package Control: Remove Package 
+Preferences: Browse Packages or Package Control: Remove Package 
 
 ***
 
